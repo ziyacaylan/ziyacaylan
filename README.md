@@ -11,6 +11,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=tailwind,github,mysql,vscode,visualstudio)](https://skillicons.dev)
 
+<details>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyacaylan&label=Views&color=blue&style=plastic" alt="ziyacaylan" /> </p>
+<br/>
 🌱 I’m currently learning some software languages and frameworks below
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,cs,dotnet,java,redis,mongodb)](https://skillicons.dev)
@@ -43,3 +46,4 @@
 <a href="https://github.com/ziyacaylan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyacaylan&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
 <!-- <a href="http://www.github.com/ziyacaylan"><img src="https://activity-graph.herokuapp.com/graph?username=ziyacaylan&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"  align="justify"/></a> -->
+</details>
