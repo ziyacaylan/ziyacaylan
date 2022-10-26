@@ -12,10 +12,11 @@
 [![My Skills](https://skillicons.dev/icons?i=tailwind,github,mysql,vscode,visualstudio)](https://skillicons.dev)
 
 <details>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyacaylan&label=Views&color=blue&style=plastic" alt="ziyacaylan" /> </p>
 <br/>
 🌱 I’m currently learning some software languages and frameworks below
-
+<br/>
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,cs,dotnet,java,redis,mongodb)](https://skillicons.dev)
 
 💬 Ask me about anything
