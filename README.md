@@ -9,7 +9,7 @@
 <!-- Yetenekler -->
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=tailwind,github,mysql,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,github,mysql)](https://skillicons.dev)
 
 <details>
 <br/>
