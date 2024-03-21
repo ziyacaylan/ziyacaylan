@@ -2,13 +2,13 @@
 
 🌱 I still feel like a student and I'm improving myself in software development.
 <img src="animation_500_ziyac.gif" alt="react" width=200 height=200 align="right">
-<img src="js.gif" alt="javascirpt" width=200 height=200 align="right">
+<img src="js.gif" alt="javascirpt" width=200 height=200 align="right">    
 
-## 🛠 Skills
+
 
 <!-- Yetenekler -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,bootstrap)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=tailwind,github,mysql)](https://skillicons.dev)
 
 <details>
